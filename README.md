@@ -97,7 +97,7 @@ Yazılar satıra sığmadığında alt satıra geçtiğin göstermek için yazı
 
 En başta bahsettiğim gibi Azure'da Virtual Machine kullanarak deploy ettim. Backend için Flask kullandım. HTML'den PDF'e ve PDF'ten PNG'ye çevirme işleminin Windows cihazlarda çalışabilmesi için gerekli olan DLL dosyalarını libs klasörü altına ekledim. Program çalışırken kendisi otomatik olarak algılamaktadır.
 
-<b>Endpoint:</b> http://20.199.117.80:5000/generate-image
+<b>Endpoint:</b> http://20.199.117.80:5000/generate-image </br>
 <b>Endpoint:</b> http://20.199.117.80:5000/generate-ad
 
 Daha hızlı test etmek için Colab'te GPU ile çalıştırabilceğiniz notebook'u kullanmanızı öneririm. [Demo Notebook](Demo-Notebook.ipynb)
